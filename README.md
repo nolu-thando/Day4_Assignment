@@ -74,18 +74,25 @@ The Gantt charts can assist in the process by creating visual representation, ta
 
 Question 8:
 What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+My software aims to address the number we have of female developers vs the male developers. These problems are significant because this will show females that
+technology r coding isn't a "males" only thing. Females too can make the best out of it.
 
 Question 9:
 How can clearly defining the problem help in developing a more effective software solution?
+- We have to set the scope of work before stating thr requirements.  This will help us have a clearer set of requirements which are related to the scope and save time.
 
 Question 10:
 How would you describe your software solution in a way that captures its essence without diving into technical details?
+- My software solution is designed to empower females to make tech-driven decisions, drive their tech growth and keep their head in the game. It is a platform that provides
+  insights, complex processes and allows collaborations within female developers.
 
 Question 11:
 What are the main features or functionalities that make your software stand out?
-
-Question 12:
-What data is available regarding the market size and growth potential for your software?
+- Automated workflow
+- Customizable dashboard
+- Collaboration tools
+- Drag and drop interface
+- Flexibility, Scalabilty and Reliability
 
 
 Question 13:
