@@ -23,6 +23,17 @@ Agile: allows you to work flexibly.
 - Lack of detailed documentation.
 - Its difficutlt to work with large projects.
 - Relies a lot on customer engagement for a team to make decisions throughout the project.
+  
+Waterfall: allows you to work in a linear/straight forward way. The first task must be completed before you can move to the next.
+##Advantages:
+- It has detailed documentation.
+- It has a clear structure/ it gives us a clear structure of the project.
+##Disadvantages:
+- It is inflexible(cannot adapt to rapid change).
+- It can be costly at times.
 
-Waterfall: 
+Question 4: 
+In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+
+
 
