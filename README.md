@@ -34,16 +34,43 @@ Waterfall: allows you to work in a linear/straight forward way. The first task m
 
 Question 4: 
 In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-
+Agile is more beneficial in projects than Waterfall because it can be used in:
+- Software Development projects, projects that are more cloud-based applications, mobile applications and or web development projects.
+- Projects with rapid change.
+- Projects with limited resources, it enables the team to focus and prioritize critical tasks.
+Waterfall is more beneficial than Agile because:
+- It allows you to work on projects that are less complex and risky.
+- It also allows you to work on projects that have long development cycles.
+- It allows you to work with projects that have limited need for creativity.
 
 Question 5:
 What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+- Test-Driven Development
+- Code Reviews
+- Automated Testing
+- Manual Testing
+- User Acceptance Testing
+- Continuous Monitoring and Feedback
+It is important for a couple of reasons like reliability and stability(ensuring that the project functions as requested or planned). It also helps in user experience,
+increasing user satisfaction, loyalty and engagement.
 
 Question 6:
 How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-
+It contributes to a successful project planning in a good way because it gives us clear objectives, focused  efforts, realistic expectations, improved communication and
+better risk management strategies.
+- Work Breadown Structure is a breakdown of the project into smaller and manageable tasks. One can also define it as a visual representation of a project scope, breaking down
+  the work into more detailed components.
+- It is useful because it helps with identifying all the tasks required to complete the project(project planning). It organizes tasks into logical structures and makes it easy to
+  manage and track a projects/teams progress.
 Question 7:
 What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+- Improved Project Planning
+- Team Collaboration
+- Better Resource allocation
+- Increases Productivity
+- Reduces Risks
+- Improves Communication
+The Gantt charts can assist in the process by creating visual representation, task dependencies, timeline management, resource allocation and progress tracking.
 
 Question 8:
 What are the core issues that your software aims to address? Why are these problems significant to your target audience?
@@ -60,9 +87,9 @@ What are the main features or functionalities that make your software stand out?
 Question 12:
 What data is available regarding the market size and growth potential for your software?
 
+
 Question 13:
 How can understanding market trends inform your software’s positioning and development?
-
-
+- Understanding market trends informs you emerging technologies, new business models, how you can shift user behaviors and more.
 
 
